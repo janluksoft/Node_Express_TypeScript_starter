@@ -1,4 +1,4 @@
-## About Node Express TypeScript
+## About Node Express TypeScript starter
 
 To write communication for Node Express in TypeScript, you need to properly configure 
 the startup project, because simply converting the declarations and .js files to .ts is not enough.
